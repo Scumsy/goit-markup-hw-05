@@ -336,7 +336,7 @@ img {
   fill: var(--icon-color);
   justify-content: center;
   align-items: center;
-  transition: background-color var(--trans-time), fill var(--trans-time);
+  transition: border-color var(--trans-time), fill var(--trans-time);
 }
 .clients-link:hover,
 .clients-link:focus {
